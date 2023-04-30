@@ -1,3 +1,11 @@
+
+visit the site at the following link: https://chimerical-platypus-f96fdd.netlify.app/
+
+image Homepage:
+![image](https://user-images.githubusercontent.com/91712749/235335360-e8c6a22c-7513-4ae2-aca3-ac8dbd1a2834.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
